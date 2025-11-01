@@ -16,7 +16,7 @@ const ipfs = create({ host: "localhost", port: 5001, protocol: "http" });
 
 
 //const CONTRACT_ADDRESS = "0x5EbCa983D811A56fA740F83a48296FF60c0BB10D";
-const PRIVATE_KEY = "0x88906dfe3244922f29b754ae203d8106b83dd795e948beeb363c0072f67f8375"; // Wallet private key of the contract owner
+const PRIVATE_KEY = "0x32a414ff2f87e33c4de16728b869127ded5de41e5b527bf371db6a4386fabd37"; // Wallet private key of the contract owner
 const RPC_URL = "http://127.0.0.1:7545"; // Local node or Infura/Alchemy URL
 
 
